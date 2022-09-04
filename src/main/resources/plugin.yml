@@ -1,0 +1,8 @@
+name: InventoryAPI
+author: Enrico_A007
+version: 1.0
+api-version: 1.19
+description: Makes inventory creating easier
+main: net.cytocloud.inventory.api.InventoryAPI
+commands:
+  testgui:
